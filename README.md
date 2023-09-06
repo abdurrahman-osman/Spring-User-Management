@@ -1,16 +1,6 @@
-# Introduction java-server-side-ui
-java-server-side-ui provides you an out-of-the-box application setup to fast start development of a Web Application based
-on a service side rendering architecture.
-
-It is leveraging Spring Boot as a technology stack, which provides:
-- a way to implement Model, View and Controller(s) using Spring Web annotations and Thymeleaf template engine
-- an Inversion of Control Container to wire together your classes at running without the need to write tightly-coupled code
-- an integrated Web Server, so no need to deploy the built artifact to a separate running web or application server
-
-The application contains example code to have a first public page. This page is built using 
-Thymeleaf and WebJars, so that common web libraries are available without the need to copy and paste them in the `resources/static` folder.
-
-It provides a way to test the controller logic.
+# Introduction Java User Management
+Sample Java Spring Webb App with simple UI to add Users to DB. This Repository cloned from https://github.com/vmware-tanzu/application-accelerator-samples and added User Management. 
+***FOR TEST PURPOSES ONLY.***
 
 ## Prerequisites
 In order to further develop this application the following tools needs to be setup:
